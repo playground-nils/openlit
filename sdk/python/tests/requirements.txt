@@ -6,7 +6,6 @@ schedule
 pylint
 do-not-install-this-package-001==0.1.6
 
-
 # Gen AI
 cohere
 openai
